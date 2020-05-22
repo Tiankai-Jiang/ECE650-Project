@@ -1,0 +1,5 @@
+.DS_Store
+minisat/
+garbage
+proj_std_thread.cpp
+proj_timer.cpp

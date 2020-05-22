@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{Cook:1971:CTP:800157.805047}
+S.~A. Cook, ``The complexity of theorem-proving procedures,'' in {\em
+  Proceedings of the Third Annual ACM Symposium on Theory of Computing}, STOC
+  '71, (New York, NY, USA), pp.~151--158, ACM, 1971.
+
+\bibitem{Stamm-wilbrandt93programmingin}
+H.~Stamm-wilbrandt, ``Programming in propositional logic or reductions: Back to
+  the roots (satisfiability),'' 1993.
+
+\bibitem{10.1007/978-3-030-30446-1_7}
+P.~M. Bittner, T.~Th{\"u}m, and I.~Schaefer, ``Sat encodings of the at-most-k
+  constraint,'' in {\em Software Engineering and Formal Methods} (P.~C.
+  {\"O}lveczky and G.~Sala{\"u}n, eds.), (Cham), pp.~127--144, Springer
+  International Publishing, 2019.
+
+\bibitem{10.1007/11564751_73}
+C.~Sinz, ``Towards an optimal cnf encoding of boolean cardinality
+  constraints,'' in {\em Principles and Practice of Constraint Programming - CP
+  2005} (P.~van Beek, ed.), (Berlin, Heidelberg), pp.~827--831, Springer Berlin
+  Heidelberg, 2005.
+
+\bibitem{Cormen:2009:IAT:1614191}
+T.~H. Cormen, C.~E. Leiserson, R.~L. Rivest, and C.~Stein, {\em Introduction to
+  Algorithms, Third Edition}.
+\newblock The MIT Press, 3rd~ed., 2009.
+
+\end{thebibliography}

@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{The Reduction}{}% 2
+\BOOKMARK [1][-]{section.3}{Encoding of Boolean Cardinality Constraints}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{The Sequential Counter Encoding}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Encoding Efficiency}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Approximation Algorithms}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{The Greedy Algorithm}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{The Random Algorithm}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{Performance Evaluation}{}% 9
+\BOOKMARK [2][-]{subsection.5.1}{Experiment Setup}{section.5}% 10
+\BOOKMARK [2][-]{subsection.5.2}{Experiment Result}{section.5}% 11
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 12
